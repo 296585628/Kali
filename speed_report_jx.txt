@@ -1,0 +1,403 @@
+# 实测码率报告（同频道多条线路时，数字越大越流畅）
+# 单位 kbps；生成方式：拉取首个媒体分片计时估算
+
+QTV-1                               31412 kbps
+南宁影视娱乐                              31150 kbps
+Chuxiong News Channel [Not 24/7]    30015 kbps
+云南娱乐                                27516 kbps
+Hunan TV (2160p)                    26149 kbps
+兰溪新闻综合                              25697 kbps
+云南都市                                25115 kbps
+QTV-2                               24045 kbps
+Zhejiang International Channel      23877 kbps
+余姚新闻综合                              23592 kbps
+CCTV-13新闻                           23531 kbps
+乌镇龙形田                               21875 kbps
+祁门综合                                21814 kbps
+东阳影视生活                              21005 kbps
+武义新闻综合                              20571 kbps
+QTV-6                               20069 kbps
+浙江教科                                19714 kbps
+渭源新闻                                19490 kbps
+浙江休闲台                               18723 kbps
+中国蓝新闻                               18610 kbps
+洞头综合                                18428 kbps
+南京教科                                17958 kbps
+余杭未来E                               17055 kbps
+上虞文化影院                              16600 kbps
+兵团五师双河新闻综合                          16539 kbps
+镇江二套社会民生                            16306 kbps
+CCTV-11戏曲                           16301 kbps
+永城综合                                16219 kbps
+CGTN法语                              16199 kbps
+江夏新闻综合                              16183 kbps
+津南一套                                16001 kbps
+CGTN (1080p)                        15729 kbps
+龙门飞甲                                15473 kbps
+余杭综合                                15422 kbps
+Kangba TV                           15048 kbps
+CGTN                                14925 kbps
+苏州4K                                14734 kbps
+倩女幽魂人间道                             14722 kbps
+河北卫视                                14596 kbps
+陕西卫视                                14544 kbps
+山东卫视                                14247 kbps
+上虞經濟文化 (720p) [Not 24/7]            14238 kbps
+广西卫视                                13914 kbps
+上虞新商都                               13837 kbps
+常熟民生                                13678 kbps
+云南卫视                                13554 kbps
+QTV-5                               13511 kbps
+大湾区卫视                               13495 kbps
+天津卫视                                13477 kbps
+广西卫视                                13430 kbps
+南京新闻综合                              13300 kbps
+Nei Monggol TV 2 Mongolian Cultu    13276 kbps
+南国都市                                13215 kbps
+Hebei TV (2160p)                    12996 kbps
+开化国家公园                              12968 kbps
+上虞新闻综合                              12950 kbps
+广东卫视                                12947 kbps
+松阳综合                                12734 kbps
+亳州农村                                12732 kbps
+南国都市                                12560 kbps
+宿州新闻综合 (1080p) [Not 24/7]           12516 kbps
+音乐现场                                12246 kbps
+倩女幽魂妖魔道                             12227 kbps
+山东教育                                12133 kbps
+新昌休闲影视 (1080p) [Not 24/7]           12052 kbps
+QTV-4                               12022 kbps
+江西卫视                                12005 kbps
+云南卫视                                11915 kbps
+湖州文化娱乐                              11891 kbps
+安徽卫视                                11816 kbps
+嵊州新闻综合                              11767 kbps
+湖州公共民生                              11712 kbps
+开化新闻综合                              11691 kbps
+倩女幽魂道道道                             11659 kbps
+航拍中国第二季                             11577 kbps
+浙江 Ⅰ 绍兴影视 (720p)                    11491 kbps
+青田电视台                               11486 kbps
+八里沟风景区天界山玻璃栈道                       11399 kbps
+Jiangsu Public & News Channel       11388 kbps
+CCTV+ 2 (600p) [Not 24/7]           11295 kbps
+浙江教科影视                              11214 kbps
+陕西卫视                                11170 kbps
+云南卫视                                11029 kbps
+餘姚姚江文化 (576p) [Not 24/7]            11015 kbps
+人与自然                                10920 kbps
+福州生活                                10876 kbps
+熊猫直播                                10798 kbps
+浙江公共新闻                              10784 kbps
+乐至综合                                10763 kbps
+象山综合                                10684 kbps
+江津新闻综合 (480p)                       10679 kbps
+上虞1新闻综合 (720p) [Not 24/7]           10617 kbps
+云和新闻综合                              10603 kbps
+深圳卫视                                10463 kbps
+兵团卫视                                10426 kbps
+湖北卫视                                10352 kbps
+Xinjiang TV 3                       10309 kbps
+CND Film Middle School Channel      10272 kbps
+浙江卫视                                10198 kbps
+江苏卫视                                10089 kbps
+Guangzhou TV                        10011 kbps
+广州新闻                                 9968 kbps
+新闻综合                                 9910 kbps
+东莞生活资讯                               9894 kbps
+西藏卫视                                 9859 kbps
+古县综合                                 9849 kbps
+浙江钱江都市                               9828 kbps
+泰山十八盘                                9825 kbps
+永嘉新闻综合                               9782 kbps
+南宁都市生活                               9766 kbps
+1987年春晚                              9658 kbps
+辽源新闻综合 [Geo-blocked]                 9585 kbps
+磐石                                   9548 kbps
+农安新闻综合 [Geo-blocked]                 9457 kbps
+浙江钱江频道                               9428 kbps
+CCTV-11戏曲                            9412 kbps
+固镇新闻                                 9398 kbps
+白银综合                                 9348 kbps
+嘉峪关综合                                9222 kbps
+广西国际                                 9205 kbps
+新疆卫视                                 9152 kbps
+缙云综合                                 9145 kbps
+飞碟之谜02                               9091 kbps
+河南卫视                                 9086 kbps
+东南卫视                                 9083 kbps
+广西卫视                                 9072 kbps
+甘肃卫视                                 9071 kbps
+第一剧场                                 9070 kbps
+凤凰中文                                 9041 kbps
+平遥新闻综合                               8918 kbps
+北京卫视                                 8881 kbps
+山西卫视                                 8855 kbps
+嵊泗综合                                 8851 kbps
+睛彩中原                                 8850 kbps
+都市剧场                                 8792 kbps
+八里沟风景区桃花湾瀑布                          8764 kbps
+平湖民生休闲                               8735 kbps
+Lanzhou Comprehensive News Chann     8732 kbps
+内蒙古卫视                                8711 kbps
+Dongguan Comprehensive News Chan     8671 kbps
+庆元新闻综合                               8623 kbps
+舒兰新闻                                 8549 kbps
+普陀电视台                                8502 kbps
+福州广播电视台新闻综合频道 (FZTV-1) (1080p)       8495 kbps
+缙云新闻综合                               8488 kbps
+Baicheng TV [Geo-blocked]            8434 kbps
+柳河                                   8403 kbps
+陕西卫视                                 8397 kbps
+广西卫视                                 8375 kbps
+浙江 Ⅰ 绍兴综合 (576p)                     8370 kbps
+遂昌综合                                 8364 kbps
+烟台公共                                 8326 kbps
+太谷新闻综合                               8263 kbps
+四川卫视                                 8210 kbps
+浙江钱江                                 8129 kbps
+宿州科教 (1080p) [Not 24/7]              8060 kbps
+烟台经济科技                               8045 kbps
+梨园                                   8025 kbps
+荥阳综合                                 8001 kbps
+衢江新闻综合                               7971 kbps
+浙江民生休闲                               7955 kbps
+浙江教育                                 7955 kbps
+庆元综合                                 7954 kbps
+新疆卫视                                 7938 kbps
+CCTV-1综合                             7932 kbps
+靖江新闻綜合 (480p) [Not 24/7]             7925 kbps
+怀仁综合                                 7894 kbps
+句容生活                                 7857 kbps
+吉林卫视                                 7856 kbps
+荣昌综合 (404p) [Not 24/7]               7759 kbps
+浙江经视                                 7756 kbps
+荆门新闻综合                               7741 kbps
+浙江经济生活                               7717 kbps
+湖州新闻综合                               7697 kbps
+哈尔滨新闻综合                              7666 kbps
+河北农民                                 7659 kbps
+长春综合 [Geo-blocked]                   7620 kbps
+NHTV (720p)                          7606 kbps
+文物宝库                                 7601 kbps
+哈尔滨影视                                7599 kbps
+之江纪录                                 7562 kbps
+延边卫视                                 7544 kbps
+名山综合                                 7536 kbps
+万荣综合                                 7510 kbps
+CCTV-12社会与法                          7473 kbps
+平湖新闻综合                               7395 kbps
+山西卫视                                 7389 kbps
+象山新闻综合                               7352 kbps
+Lanzhou Culture & Tourism Channe     7335 kbps
+前郭综合 [Geo-blocked]                   7298 kbps
+OUN (1080p)                          7294 kbps
+福州电视台少儿频道 (FZTV-少儿) (1080p)          7293 kbps
+定襄综合                                 7291 kbps
+松原新闻综合 [Geo-blocked]                 7264 kbps
+乌镇全景                                 7244 kbps
+江苏徐州云龙湖风景区云龙山观景台西                    7170 kbps
+Guangxi Variety & Travel Channel     7163 kbps
+通化新闻 [Geo-blocked]                   7129 kbps
+新疆卫视                                 7122 kbps
+甘肃经济                                 7107 kbps
+龙游新闻综合                               7098 kbps
+江西卫视                                 7091 kbps
+新野综合                                 7057 kbps
+剑阁综合                                 7040 kbps
+1988年春晚                              7008 kbps
+广安公共                                 6999 kbps
+文成综合                                 6999 kbps
+新昌生活                                 6978 kbps
+哈尔滨生活                                6938 kbps
+荥经综合                                 6938 kbps
+CCTV-15音乐                            6914 kbps
+北京新闻                                 6907 kbps
+苏州新闻综合                               6893 kbps
+文成新闻综合                               6870 kbps
+风云音乐                                 6866 kbps
+黄龙                                   6795 kbps
+井研综合                                 6762 kbps
+河源综合 (540p)                          6709 kbps
+浙江新闻                                 6698 kbps
+泸县新闻综合                               6667 kbps
+白山公共                                 6652 kbps
+之江纪录                                 6576 kbps
+旺苍新闻综合                               6546 kbps
+广州综合                                 6532 kbps
+九台                                   6529 kbps
+黑龙江都市                                6462 kbps
+Harbin Comprehensive News Channe     6461 kbps
+浙江经济                                 6441 kbps
+龙游生活娱乐                               6438 kbps
+七台河新闻综合                              6419 kbps
+上虞3新商都 (720p) [Not 24/7]             6416 kbps
+广德生活                                 6413 kbps
+湖南卫视                                 6376 kbps
+易门综合                                 6271 kbps
+梨园频道                                 6266 kbps
+西藏卫视                                 6265 kbps
+韩国EBS少儿                              6263 kbps
+广元公共                                 6228 kbps
+湖南张家界水绕四门                            6215 kbps
+山西卫视                                 6204 kbps
+浙江数码时代                               6191 kbps
+飞碟之谜01                               6191 kbps
+汾西综合                                 6185 kbps
+浙江遂昌                                 6176 kbps
+云霄综合                                 6173 kbps
+黄花城水长城03                             6150 kbps
+璧山综合                                 6089 kbps
+南京玄武湖公园                              6079 kbps
+舒兰新闻综合                               6069 kbps
+泰山南天门                                6052 kbps
+四川峨眉山云海日出                            6046 kbps
+深圳卫视                                 6040 kbps
+镇江新闻综合                               5960 kbps
+武术频道                                 5940 kbps
+湖南卫视4K                               5893 kbps
+Indiyskoye Kino (576p)               5891 kbps
+可克达拉综合                               5853 kbps
+Nei Monggol TV (1080i) [Not 24/7     5851 kbps
+浙江经济                                 5848 kbps
+浙江钱江                                 5822 kbps
+西峰综合                                 5818 kbps
+安徽导视                                 5808 kbps
+滨海新闻综合                               5771 kbps
+浙江卫视                                 5764 kbps
+东方卫视                                 5764 kbps
+CCTV-13新闻                            5758 kbps
+浙江国际                                 5749 kbps
+沐川综合                                 5748 kbps
+乌镇西市河                                5738 kbps
+张掖新闻综合                               5729 kbps
+夹江新闻综合                               5718 kbps
+烟台新闻综合                               5705 kbps
+汶川新闻综合                               5683 kbps
+广东卫视                                 5670 kbps
+浙江少儿                                 5661 kbps
+1989年春晚                              5651 kbps
+黑龙江卫视                                5612 kbps
+CCTV-15音乐                            5595 kbps
+浙江国际                                 5586 kbps
+重庆卫视                                 5566 kbps
+雅安新闻综合                               5564 kbps
+吉林市新闻综合 [Geo-blocked]                5537 kbps
+兵团卫视                                 5507 kbps
+浙江新闻                                 5501 kbps
+北京卫视                                 5494 kbps
+泰山太平岭                                5484 kbps
+黄果树六角亭瀑布                             5445 kbps
+松潘新闻综合                               5442 kbps
+黄山排云亭                                5430 kbps
+东方卫视4K                               5406 kbps
+CCTV-13新闻                            5405 kbps
+直播中国精编直播                             5402 kbps
+黄山                                   5399 kbps
+青川综合                                 5395 kbps
+兴隆综合                                 5391 kbps
+四平新闻综合 [Geo-blocked]                 5387 kbps
+黄花城水长城01                             5381 kbps
+云南卫视                                 5370 kbps
+浙江民生                                 5354 kbps
+新疆卫视                                 5314 kbps
+白山新闻综合 [Geo-blocked]                 5309 kbps
+湖北卫视                                 5306 kbps
+寰宇新闻                                 5304 kbps
+都江堰鱼嘴                                5285 kbps
+苏州文化生活                               5283 kbps
+Xinjiang TV 3                        5275 kbps
+河源公共                                 5248 kbps
+CHC电影                                5229 kbps
+四川峨眉山远眺贡嘎雪山                          5177 kbps
+长白朝语                                 5164 kbps
+Chifeng Comprehensive News Chane     5118 kbps
+月牙泉                                  5082 kbps
+黄山飞来石                                5065 kbps
+靖宇                                   5063 kbps
+张掖七彩丹霞                               5051 kbps
+直播中国                                 5043 kbps
+湖南张家界宝峰湖                             5040 kbps
+苏州生活资讯                               5038 kbps
+苏州社会经济                               5010 kbps
+广西桂林漓江景区                             5003 kbps
+云南白沙远眺玉龙雪山                           4979 kbps
+龙泉新闻综合                               4927 kbps
+萧山综合                                 4926 kbps
+任丘综合                                 4920 kbps
+晋江电视台                                4891 kbps
+奎屯汉语                                 4883 kbps
+泰山碧霞祠                                4864 kbps
+广西玉林大容山莲花山顶                          4863 kbps
+桦甸                                   4859 kbps
+新疆卫视                                 4850 kbps
+贵州省兴义市万峰林                            4847 kbps
+2024年春晚                              4813 kbps
+黑龙江卫视                                4775 kbps
+福建武夷山玉女峰                             4764 kbps
+四川四姑娘山隆珠措                            4755 kbps
+湖南卫视                                 4724 kbps
+第一财经                                 4715 kbps
+昌黎综合                                 4694 kbps
+陕西洋县国宝朱鹮02                           4691 kbps
+河南卫视                                 4660 kbps
+青岛崂山双福                               4644 kbps
+安徽黟县西递牌坊                             4622 kbps
+丽江古城大研花巷观景                           4611 kbps
+朝天综合                                 4600 kbps
+浙江舟山东极岛                              4578 kbps
+云南大理崇圣寺三塔中景                          4577 kbps
+兵团八师石河子新闻综合                          4569 kbps
+嵊州综合 (720p) [Not 24/7]               4569 kbps
+天涯石                                  4562 kbps
+绍兴电视台公共                              4552 kbps
+诸暨新闻综合                               4499 kbps
+鸣沙山                                  4492 kbps
+云南卫视                                 4483 kbps
+甘肃卫视                                 4479 kbps
+云南卫视                                 4471 kbps
+泰山主峰                                 4460 kbps
+云南大理崇圣寺三塔远景                          4442 kbps
+北京卫视                                 4435 kbps
+安多卫视                                 4434 kbps
+Ando TV (1080p)                      4419 kbps
+吉林乡村                                 4400 kbps
+蕭山生活頻道 (720p) [Not 24/7]             4380 kbps
+萧山新闻综合 (720p) [Not 24/7]             4376 kbps
+新疆卫视                                 4353 kbps
+乐山大佛全景                               4346 kbps
+狮子山鸟瞰丽江古城                            4345 kbps
+中央电视塔南                               4344 kbps
+四川峨眉山普贤菩萨铜像                          4343 kbps
+云南丽江玉龙雪山草甸                           4338 kbps
+辉南新闻                                 4330 kbps
+江苏南京牛首山                              4324 kbps
+长子综合                                 4320 kbps
+宁夏卫视                                 4307 kbps
+平泉综合                                 4297 kbps
+浙江留学                                 4287 kbps
+湖南卫视                                 4266 kbps
+云南丽江蓝月谷                              4263 kbps
+安徽卫视                                 4245 kbps
+清河经济综艺                               4232 kbps
+厦门鼓浪屿                                4230 kbps
+安徽黟县芦村远眺                             4207 kbps
+珲春新闻                                 4189 kbps
+四川峨眉山远眺万佛顶                           4177 kbps
+余姚姚江文化 (576p)                        4176 kbps
+邢台生活                                 4163 kbps
+吉林卫视                                 4161 kbps
+贵州卫视                                 4155 kbps
+邯郸新闻                                 4147 kbps
+乌镇蓝印花布                               4132 kbps
+黑龙江卫视                                4090 kbps
+德惠综合                                 4087 kbps
+辽宁卫视                                 4080 kbps
+黄山始信新道                               4071 kbps
+云南丽江玉龙雪山                             4068 kbps
+东方卫视4K                               4065 kbps
+福建漳州醉美沙滩翡翠湾                          4063 kbps
+丽江古城大水车                              4047 kbps
+云南丽江印象实景                             4038 kbps
+五彩池                                  4034 kbps
+云南丽江冰川                               4013 kbps
