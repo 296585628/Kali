@@ -1,0 +1,64 @@
+#EXTM3U
+# 点播源（VOD）总汇 · 实测可用
+# ① 点播采集接口：填进 TVBox/影视仓/OK影视 的“数据源”，或浏览器访问 接口+?ac=list 看分类
+# ② 影视列表 / TVBox 配置：直接填进壳的“配置地址”即可加载其中站点
+
+# ===== ① 点播采集接口（CMS/JSON，实测可用）9 个 =====
+#EXTINF:-1 group-title="点播接口",影视 | 天涯
+http://tyyszy.com/api.php/provide/vod
+#EXTINF:-1 group-title="点播接口",影视 | 建安
+http://154.219.117.232:9981/jacloudapi.php/provide/vod
+#EXTINF:-1 group-title="点播接口",影视 | 电影天堂
+http://caiji.dyttzyapi.com/api.php/provide/vod
+#EXTINF:-1 group-title="点播接口",影视 | 非凡[直连]
+http://ffzy.tv/api.php/provide/vod/
+#EXTINF:-1 group-title="点播接口",闪电资源(切)
+http://sdzyapi.com/api.php/provide/vod/
+#EXTINF:-1 group-title="点播接口",️天堂┃采集
+http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8/
+#EXTINF:-1 group-title="点播接口",🎏百度┃采集
+https://api.apibdzy.com/api.php/provide/vod/
+#EXTINF:-1 group-title="点播接口",🕹️淘片┃采集
+https://taopianapi.com/cjapi/mc/vod/json.html
+#EXTINF:-1 group-title="点播接口",🦊火狐采集
+https://hhzyapi.com/api.php/provide/vod/
+
+# ===== ② 影视 / 直播列表 8 个 =====
+#EXTINF:-1 group-title="影视列表",BMCH
+https://gh.halonice.com/https:/raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u
+#EXTINF:-1 group-title="影视列表",raw.githubusercontent.com
+https://raw.githubusercontent.com/vbskycn/tvbox/a244f6f5c08565a9a0e319d6a3cc2e919d05d893/MY%E6%8E%A2%E6%8E%A2.txt
+#EXTINF:-1 group-title="影视列表",手动不知何时更新
+https://szyyds.cn/tv/live/x.txt
+#EXTINF:-1 group-title="影视列表",有效期27年7月
+http://m.szyyds.cn/api.php?token=8664f352657e8b13585bcf0f84fc3512
+#EXTINF:-1 group-title="影视列表",综合直播
+https://ghfast.top/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
+#EXTINF:-1 group-title="影视列表",综合直播
+http://193.123.86.190:14888/TV/iptv.php
+#EXTINF:-1 group-title="影视列表",自动更新
+https://z.szyyds.cn/iptv
+#EXTINF:-1 group-title="影视列表",音乐所
+https://szyyds.cn/tv/live/yy.txt
+
+# ===== ③ TVBox / 影视仓 配置（可直接当配置地址）10 个 =====
+#EXTINF:-1 group-title="TVBox配置",dxawi.github.io
+https://dxawi.github.io/0/0.json
+#EXTINF:-1 group-title="TVBox配置",ghproxy.net
+https://raw.githubusercontent.com/yw88075/tvbox/main/yw.json
+#EXTINF:-1 group-title="TVBox配置",ghproxy.net
+raw.githubusercontent.com/gaotianliuyun/gao/master/js.json
+#EXTINF:-1 group-title="TVBox配置",gitlab.com
+https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-Dx.json
+#EXTINF:-1 group-title="TVBox配置",gitlink.org.cn
+https://gitlink.org.cn/api/hailin/aishangtv5/raw/tvbox/aishang.json?ref=master
+#EXTINF:-1 group-title="TVBox配置",home.jundie.top:81
+http://home.jundie.top:81/top98.json
+#EXTINF:-1 group-title="TVBox配置",raw.githubusercontent.com
+https://raw.githubusercontent.com/guot55/yg/main/max.json
+#EXTINF:-1 group-title="TVBox配置",raw.githubusercontent.com
+https://raw.githubusercontent.com/kunkka1986/my.img/main/frjbox.json
+#EXTINF:-1 group-title="TVBox配置",www.yingm.cc
+https://www.yingm.cc/dm/dm.json
+#EXTINF:-1 group-title="TVBox配置",ztha.top
+http://ztha.top/TVBox/thdjk.json
