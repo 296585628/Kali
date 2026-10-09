@@ -15,7 +15,7 @@
 | [`speed_report_jx.txt`](speed_report_jx.txt) | 精选版实测码率报告 |
 | [`vod.m3u`](vod.m3u) | 点播源清单（采集接口/影视列表/TVBox 配置，给人看的清单） |
 
-
+聚合直播-精选https://ghfast.top/https://raw.githubusercontent.com/296585628/Kali/main/live_clean_jx.m3u
 
 ## 免责声明
 
