@@ -1,0 +1,24 @@
+{
+  "urls": [
+    {
+      "name": "肥猫",
+      "url": "https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/main/output/feimao.json"
+    },
+    {
+      "name": "王二小",
+      "url": "https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/main/output/wangerxiao.json"
+    },
+    {
+      "name": "讴歌",
+      "url": "https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/main/output/ouge.json"
+    },
+    {
+      "name": "4K小盒子",
+      "url": "https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/main/output/4k.json"
+    },
+    {
+      "name": "Kali自建(点播+直播)",
+      "url": "https://raw.githubusercontent.com/296585628/Kali/main/FX2_stable.json"
+    }
+  ]
+}
