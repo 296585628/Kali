@@ -1,0 +1,121 @@
+{
+  "wallpaper": "https://picsum.photos/1920/1080",
+  "sites": [
+    {
+      "key": "cms0",
+      "name": "影视 | 电影天堂",
+      "type": 3,
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "cms1",
+      "name": "🦊火狐采集",
+      "type": 3,
+      "api": "https://hhzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "cms2",
+      "name": "影视 | 天涯",
+      "type": 3,
+      "api": "http://tyyszy.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "cms3",
+      "name": "🕹淘片┃采集",
+      "type": 3,
+      "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "cms4",
+      "name": "影视 | 建安",
+      "type": 3,
+      "api": "http://154.219.117.232:9981/jacloudapi.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "cms5",
+      "name": "影视 | 非凡[直连]",
+      "type": 3,
+      "api": "http://ffzy.tv/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "cms6",
+      "name": "天堂┃采集",
+      "type": 3,
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "cms7",
+      "name": "闪电资源(切)",
+      "type": 3,
+      "api": "http://sdzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "cms8",
+      "name": "🎏百度┃采集",
+      "type": 3,
+      "api": "https://api.apibdzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ],
+  "lives": [
+    {
+      "name": "聚合直播-精选",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/296585628/Kali/main/live_clean_jx.m3u",
+      "type": 0
+    },
+    {
+      "name": "聚合直播-全量",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/296585628/Kali/main/live_clean.m3u",
+      "type": 0
+    }
+  ],
+  "parses": [
+    {
+      "name": "聚合解析",
+      "type": 1,
+      "url": "Web"
+    }
+  ],
+  "flags": [
+    "youku",
+    "qq",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "tudou",
+    "pptv",
+    "mgtv",
+    "wasu",
+    "bilibili"
+  ],
+  "spider": "",
+  "rules": [],
+  "ads": []
+}
